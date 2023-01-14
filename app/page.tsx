@@ -5,8 +5,9 @@
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
-  return (
+  re(
     <center><div> <h2>Hello World from 
       <b> Humera Aslam</b></h2></div></center>
   )
 }
+fFFqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqaWSWWWWWWWWS
